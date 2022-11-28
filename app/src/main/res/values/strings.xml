@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="navigation_storage_title">Storage</string>
+    <string name="navigation_memory_title">Memory</string>
+    <string name="navigation_filesystem_title">Filesystem</string>
+    <string name="menu_back">Back</string>
+    <string name="app_bar_category">Category</string>
+
+    <string name="error_io_exception">Couldn\'t load data</string>
+    <string name="size_in_mb">%1$dMB</string>
+    <string name="btn_text_see_all">See all</string>
+</resources>
